@@ -12,3 +12,10 @@ streamlit설치
 
 작성한 파이썬 실행
     streamlit run chat.py
+
+
+streamlit을 통한 배포
+    streamlit cloud에 git 연동하고
+    git에 commit (gitignore .env확인)
+    streamlit cloud > create App > github 선택
+    
