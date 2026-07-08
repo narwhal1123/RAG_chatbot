@@ -1,0 +1,14 @@
+가상환경 생성
+    conda create -n inflearn-streamlit python=3.11
+
+가상환경 활성화
+    conda activate inflearn-streamlit
+
+streamlit설치
+    pip install streamlit
+
+설치 확인
+    streamlit hello
+
+작성한 파이썬 실행
+    streamlit run chat.py
